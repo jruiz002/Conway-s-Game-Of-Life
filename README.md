@@ -49,3 +49,4 @@ Cada patrón tiene un color distinto, y la herencia de color hace que la simulac
 - Basado en el clásico Juego de la Vida de John Conway.
 
 ---
+![lab](https://github.com/user-attachments/assets/927284e2-6489-45f8-8312-26ce371aa4de)
