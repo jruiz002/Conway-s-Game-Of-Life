@@ -21,6 +21,7 @@ El Juego de la Vida es un autómata celular donde cada célula de una cuadrícul
    - Si no tienes las librerías nativas de Raylib, sigue las instrucciones de [raylib-rs](https://github.com/deltaphc/raylib-rs#requirements).
 4. Compila y ejecuta:
    ```sh
+   cargo build
    cargo run
    ```
 
